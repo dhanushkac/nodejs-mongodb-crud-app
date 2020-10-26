@@ -1,13 +1,13 @@
 {
-  "name": "mongo-example",
+  "name": "node-mongo-example-crud-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "This sample project explains how to create REST API using node.js with mongoDB. 🍃",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index",
     "start": "node index"
   },
-  "author": "",
+  "author": "dhanushkac",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
